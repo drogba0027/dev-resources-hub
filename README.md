@@ -1,35 +1,40 @@
-# 🚀 Dev Resources Hub
+![Banner](assets/dev-resources-banner.png)
 
-A curated collection of essential tools, extensions, and learning resources for frontend, backend, UI/UX, and more.
+# Dev Resources Hub
 
-![Dev Resources Banner](assets/dev-resources-banner.png)
+Your one-stop hub for frontend, backend, UI/UX tools, extensions, learning platforms, and free APIs!
 
-## 📂 Repository Structure
-- `frontend-tools.md` – Frameworks, libraries, and tools for frontend devs.
-- `backend-tools.md` – Backend frameworks, APIs, and utilities.
-- `ui-ux-tools.md` – Design tools, wireframing, inspiration sites.
-- `dev-extensions.md` – Must-have browser extensions.
-- `learning-resources.md` – Sites, courses, and communities.
+## 🔥 What's Inside
+
+- ✅ Frontend Tools
+- ✅ Backend Tools
+- ✅ UI/UX Tools
+- ✅ Browser Extensions for Devs
+- ✅ Learning Resources
+- ✅ Free APIs for your projects
+
+## 📂 Sections
+
+| File | Description |
+|------|-------------|
+| `frontend-tools.md` | Frontend libraries and tools |
+| `backend-tools.md` | Backend development tools |
+| `ui-ux-tools.md` | UI/UX design and inspiration |
+| `dev-extensions.md` | Useful developer browser extensions |
+| `learning-resources.md` | Courses, docs, and YouTube channels |
+| `free-apis.md` | Free APIs to use in projects |
+
+## 🚀 Contribute
+
+Found something useful? Add it! Open a pull request.
+
+## 🌟 Star This Repo
+
+If you like it, **please give this repo a star** — it helps a lot!
 
 ---
 
-## 💡 Why This Repo?
-Whether you're a beginner or pro, this is your go-to toolbox for everything dev.
-
----
-
-## 🙌 Contribute
-Found something useful? Add it!
-- Fork this repo
-- Add your tool/resource
-- Make a pull request
-
----
-
-## ⭐ Star This Repo
-If you find this helpful, please **give it a ⭐** to support and spread the word!
-
----
+Made with ❤️ by [@haseebnk](https://github.com/haseebnk)
 
 ## 👤 Author
 Muhammad Haseeb  

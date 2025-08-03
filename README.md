@@ -1,46 +1,36 @@
 # 🚀 Dev Resources Hub
 
-A handpicked collection of tools, extensions, and learning resources for frontend, backend, and full-stack developers.
+A curated collection of essential tools, extensions, and learning resources for frontend, backend, UI/UX, and more.
 
-From productivity boosters to learning portals — everything you need in one place.
+![Dev Resources Banner](assets/dev-resources-banner.png)
 
----
-
-## 📚 Categories
-
-- [Frontend Tools](./frontend-tools.md)
-- [Backend Tools](./backend-tools.md)
-- [UI/UX Design Tools](./ui-ux-tools.md)
-- [Browser Extensions for Developers](./dev-extensions.md)
-- [Learning Resources](./learning-resources.md)
+## 📂 Repository Structure
+- `frontend-tools.md` – Frameworks, libraries, and tools for frontend devs.
+- `backend-tools.md` – Backend frameworks, APIs, and utilities.
+- `ui-ux-tools.md` – Design tools, wireframing, inspiration sites.
+- `dev-extensions.md` – Must-have browser extensions.
+- `learning-resources.md` – Sites, courses, and communities.
 
 ---
 
-## 🌟 Star This Repo
-
-If you found this helpful, please consider **starring** ⭐ this repository to support and keep it growing!
-
-> Your star motivates me to keep improving and adding more valuable content.
+## 💡 Why This Repo?
+Whether you're a beginner or pro, this is your go-to toolbox for everything dev.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how:
-
-1. Fork this repo
-2. Create your feature branch (`git checkout -b awesome-tool`)
-3. Commit your changes (`git commit -m 'Add cool tool'`)
-4. Push to the branch (`git push origin awesome-tool`)
-5. Open a pull request
-
-I'll review and merge your PR if it's helpful. Let's build this hub together 💪
+## 🙌 Contribute
+Found something useful? Add it!
+- Fork this repo
+- Add your tool/resource
+- Make a pull request
 
 ---
 
-## 🔗 Connect With Me
+## ⭐ Star This Repo
+If you find this helpful, please **give it a ⭐** to support and spread the word!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourportfolio.com)
+---
 
+## 👤 Author
+Muhammad Haseeb  
+[GitHub](https://github.com/haseebnk) | [LinkedIn](https://linkedin.com/in/haseebnk)

@@ -1,19 +1,35 @@
-# Free APIs
+# 🌐 Free APIs
 
-Useful public/free APIs for developers:
+A curated list of **public/free APIs** you can use in your projects.
 
-1. [REST Countries](https://restcountries.com/)
-2. [OpenWeatherMap](https://openweathermap.org/api)
-3. [NewsAPI](https://newsapi.org/)
-4. [The Cat API](https://thecatapi.com/)
-5. [The Dog API](https://thedogapi.com/)
-6. [CoinGecko API](https://www.coingecko.com/en/api)
-7. [Public APIs](https://github.com/public-apis/public-apis)
-8. [JokeAPI](https://jokeapi.dev/)
-9. [Open Trivia DB](https://opentdb.com/)
-10. [AnimeChan API](https://animechan.vercel.app/)
-11. [Rick and Morty API](https://rickandmortyapi.com/)
-12. [PokeAPI](https://pokeapi.co/)
-13. [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)
-14. [Zippopotam.us (Zip Code)](http://www.zippopotam.us/)
-15. [IP Geolocation](https://ip-api.com/)
+---
+
+## 📦 General APIs
+
+- [Public APIs](https://publicapis.dev/) – A huge directory of free APIs
+- [API Ninjas](https://apininjas.com/) – Weather, quotes, images, and more
+- [Zippopotam.us](http://api.zippopotam.us/) – Postal codes and locations
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) – Fake REST API for prototyping
+- [REST Countries](https://restcountries.com/) – Country data and flags
+- [Open Library](https://openlibrary.org/developers/api) – Books and authors
+
+## 🔍 Search & Data
+
+- [DuckDuckGo Instant Answer API](https://duckduckgo.com/api) – Search results
+- [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page) – Wiki data and search
+- [OpenWeather](https://openweathermap.org/api) – Weather data (requires key but free tier available)
+
+## 📈 Finance & Crypto
+
+- [CoinGecko](https://www.coingecko.com/en/api) – Crypto data
+- [CurrencyFreaks](https://currencyfreaks.com/) – Exchange rates and currency APIs
+
+## 🧠 Fun & Entertainment
+
+- [The Bored API](https://www.boredapi.com/) – Random fun activities
+- [JokeAPI](https://v2.jokeapi.dev/) – Programming jokes and memes
+- [PokeAPI](https://pokeapi.co/) – Pokémon data
+
+---
+
+> Want to add more? Open a PR 🚀

